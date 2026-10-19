@@ -14,4 +14,5 @@ lab5/lab5
 proj/proj
 proj/libproj.a
 *.swp
-*.gdbinit
+*.gdbinitcore.*
+proj/core.*
